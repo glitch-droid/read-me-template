@@ -80,7 +80,6 @@ SOFTWARE.
 
 ## Author Info
 
-- Twitter - [@jamesqquick](https://twitter.com/jamesqquick)
-- Website - [James Q Quick](https://jamesqquick.com)
+- Facebook - [@mrigaBhai](https://www.facebook.com/mriganka.bharali.547)
 
 [Back To The Top](#read-me-template)
